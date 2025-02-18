@@ -14,7 +14,7 @@
     "url": "https://github.com/stackbreak/comment-divider/issues"
   },
   "engines": {
-    "vscode": "^1.28.0"
+    "vscode": "^1.55.0"
   },
   "categories": [
     "Other",
@@ -186,11 +186,11 @@
     "postinstall": "node ./node_modules/vscode/bin/install"
   },
   "devDependencies": {
+    "@types/vscode": "^1.55.0",
     "prettier": "^2.2.1",
     "tslint": "^5.11.0",
     "tslint-config-prettier": "^1.17.0",
     "typescript": "^4.1.2",
-    "typescript-tslint-plugin": "^0.3.1",
-    "vscode": "^1.1.26"
+    "typescript-tslint-plugin": "^0.3.1"
   }
 }

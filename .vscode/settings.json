@@ -14,5 +14,10 @@
   "typescript.tsdk": "node_modules/typescript/lib",
   "[markdown]": {
     "editor.formatOnSave": false
-  }
+},
+"workbench.colorCustomizations": {
+    "activityBar.background": "#322F05",
+    "titleBar.activeBackground": "#464106",
+    "titleBar.activeForeground": "#FCFBE5"
+}
 }
